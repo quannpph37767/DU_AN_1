@@ -20,7 +20,7 @@
                                     </ul>
                                     <div class="title" data-animation="animated bounceInRight" >Lord of the rings: The return of the kings <i>(2017)</i></div>
                                     <div class="slide_right" data-animation="animated bounceInRight">
-                                        <a href="javascript:;" class="btn-trailer">watch trailer</a> <a href="javascript:;" class="btn-ticket">buy ticket</a>
+                                        <a href="javascript:;" class="btn-trailer">xem trailer</a> <a href="javascript:;" class="btn-ticket">mua vé</a>
                                         <ul class="award-logo">
                                             <li><img src="images/header/icon1.png" alt="icon" ></li>
                                             <li><img src="images/header/icon2.png" alt="icon"></li>
@@ -60,7 +60,7 @@
                                     </ul>
                                     <div class="title" data-animation="animated bounceInRight" >The Battle of Algiers (La Battaglia)  <i>(1967)</i></div>
                                     <div class="slide_right" data-animation="animated bounceInRight">
-                                        <a href="javascript:;" class="btn-trailer">watch trailer</a> <a href="javascript:;" class="btn-ticket">buy ticket</a>
+                                        <a href="javascript:;" class="btn-trailer">xem trailer</a> <a href="javascript:;" class="btn-ticket">mua vé</a>
                                         <ul class="award-logo">
                                             <li><img src="images/header/icon1.png" alt="icon" ></li>
                                             <li><img src="images/header/icon2.png" alt="icon"></li>
@@ -99,7 +99,7 @@
                                     </ul>
                                     <div class="title" data-animation="animated bounceInRight" >The Battle of Algiers (Di Algeri)<i>(1967)</i></div>
                                     <div class="slide_right" data-animation="animated bounceInRight">
-                                        <a href="javascript:;" class="btn-trailer">watch trailer</a> <a href="javascript:;" class="btn-ticket">buy ticket</a>
+                                        <a href="javascript:;" class="btn-trailer">xem trailer</a> <a href="javascript:;" class="btn-ticket">mua vé</a>
                                         <ul class="award-logo">
                                             <li><img src="images/header/icon1.png" alt="icon" ></li>
                                             <li><img src="images/header/icon2.png" alt="icon"></li>

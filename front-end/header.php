@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <title>Tenguu Cinema - Movie Theater Template</title>
+    <title>Bravo Cinema - Movie Theater</title>
     <meta name="keywords" content="HTML5,CSS3,HTML,Template,Themeton" >
     <meta name="description" content="Tenguu Cinema - Movie Theater Template">
     <meta name="author" content="Themeton">
@@ -32,16 +32,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-4">
-                <a href="index.html" id="logo" title="Tenguu" class="logo-image" data-bg-image="images/logo.png">Tenguu
+                <a href="index.php" id="logo" title="Tenguu" class="logo-image" data-bg-image="images/logo.png">Bravo
                 </a>
             </div>
             <div class="col-md-5 col-md-offset-1 col-sm-6 col-xs-8 phl0">
                 <div class="header_author">
-                    <a href="#">Amanda Green</a>
+                    <a href="#">Tài khoản</a>
                     <img src="images/user.png" class="user" alt="user">
                 </div>
                 <div class="header_ticket">
-                    <a href="#order" class="order_btn">My tickets</a>
+                    <a href="#order" class="order_btn">Vé của tôi</a>
                     <span>3</span>
                 </div>
                 <a href="javascript:;" id="header-search"></a>
@@ -54,10 +54,10 @@
 <a href="javascript:;" class="close-window"></a>
   <nav class="overlay-menu">
     <ul >
-        <li ><a href="index.html">Home</a></li>
+        <li ><a href="index.php">Trang chủ</a></li>
         <li><a href="blog.html">Blog</a></li>
         <li><a href="single.html">Single</a></li>
-        <li><a href="#order" class="order_btn">Order</a></li>
+        <li><a href="#order" class="order_btn">Đặt vé</a></li>
     </ul>
   </nav>
 </div>            </div>
